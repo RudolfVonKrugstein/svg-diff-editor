@@ -349,6 +349,16 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@thisbeyond/solid-dnd@^0.7.2":
+  version "0.7.2"
+  resolved "https://registry.yarnpkg.com/@thisbeyond/solid-dnd/-/solid-dnd-0.7.2.tgz#8481373f9b840ebda24181ade5314f14e4a0f4d1"
+  integrity sha512-He8WC2o0J82UwjkbxNSZ+Lnty42TvCENaZWmdnsrDN7pf+7FFnxt9AD/8tJ3eN8aoRxymX81ZUX6PwcwrFxN0A==
+
+"@types/node@^18.11.3":
+  version "18.11.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.3.tgz#78a6d7ec962b596fc2d2ec102c4dd3ef073fea6a"
+  integrity sha512-fNjDQzzOsZeKZu5NATgXUPsaFaTxeRgFXoosrHivTl8RGeV733OLawXsGfEk9a8/tySyZUyiZ6E8LcjPFZ2y1A==
+
 acorn-node@^1.8.2:
   version "1.8.2"
   resolved "https://registry.yarnpkg.com/acorn-node/-/acorn-node-1.8.2.tgz#114c95d64539e53dede23de8b9d96df7c7ae2af8"
