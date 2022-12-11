@@ -20,4 +20,9 @@ export class InputImageData {
     get_id(): number {
        return this.id;
     }
+
+    unset(): boolean {
+        return this.type == InputImageType.None;
+    }
+
 }
